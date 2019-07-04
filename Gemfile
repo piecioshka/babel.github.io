@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-redirect-from'
+gem 'jekyll', '>= 3.6.3'
+gem 'jekyll-redirect-from', '>= 0.8.0'
